@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/walterngo/Documents/projects/gym-trackr/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="/Users/walterngo/Documents/projects/gym-trackr/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.0.1_aa5e2fe4be3eb6b56fa30ba46268933cabd5d6dd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/walterngo/Documents/projects/GymTrackr/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="/Users/walterngo/Documents/projects/GymTrackr/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.0.1_1226f76a65389cbe776189908e089ecccffad008/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/walterngo/Documents/projects/gym-trackr/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/Users/walterngo/Documents/projects/gym-trackr/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_6e71e837a30dfde0e2ec587145fa13ca7d7127aa/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/walterngo/Documents/projects/gym-trackr/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="/Users/walterngo/Documents/projects/gym-trackr/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.0.1_0adc4fefa69e92642d37c0c841e6a9d6184b2f09/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/walterngo/Documents/projects/GymTrackr/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="/Users/walterngo/Documents/projects/GymTrackr/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.0.1_10f3bbb1e25b29901007b00459210f7a421fd272/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/walterngo/Documents/projects/gym-trackr/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1f76c83d11e42f7030888519edcc43a875bb4ca6">
+        <dex dex="/Users/walterngo/Documents/projects/gym-trackr/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_249a9f68b41e6e1103b9b131e8e3eec8a8ee4b55/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/walterngo/Documents/projects/gym-trackr/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="/Users/walterngo/Documents/projects/gym-trackr/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_437aaa828c7c5056789d761938df8984c527a7f1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/walterngo/Documents/projects/gym-trackr/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="/Users/walterngo/Documents/projects/gym-trackr/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_e3251afd8106ed91ac0ba9a80bc8fa2d54e6ec5f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/walterngo/Documents/projects/gym-trackr/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a9da87ec307d7edae278728c4f54315a05928948">
+        <dex dex="/Users/walterngo/Documents/projects/gym-trackr/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_6a56140b3a0894e5cfb8d3bb629ca93a28cf0c0a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/walterngo/Documents/projects/gym-trackr/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="/Users/walterngo/Documents/projects/gym-trackr/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_7c644cbb3d121652c9eb717c6f3b0e631e2aa21d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/walterngo/Documents/projects/gym-trackr/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="/Users/walterngo/Documents/projects/gym-trackr/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.0.1_0fbb3ae9ee09c8af3b86d937c630e3fdbcb7eb5f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/walterngo/Documents/projects/GymTrackr/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="/Users/walterngo/Documents/projects/GymTrackr/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.0.1_fce2d7ae8de4d923fc528fc1c363cbbfddc31d9f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/walterngo/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.0.5-2/9a397ba5477bf49ae0418cc3e392b3c0e5a112d1/kotlin-stdlib-1.0.5-2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9a397ba5477bf49ae0418cc3e392b3c0e5a112d1">
+        <dex dex="/Users/walterngo/Documents/projects/GymTrackr/app/build/intermediates/transforms/dex/debug/folders/1000/10/kotlin-stdlib-1.0.5-2_2338ea199a8f437f75a884aa007ce689221c4fa2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/walterngo/Documents/projects/GymTrackr/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5ea37e277d7efa8979d122b0f1cded5274e275f4">
+        <dex dex="/Users/walterngo/Documents/projects/GymTrackr/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_548532b3d79d5dae7e4a2e81812ee7b5271950b7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/walterngo/Documents/projects/gym-trackr/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="/Users/walterngo/Documents/projects/gym-trackr/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.0.1_e03696473fc93f24a408d15e0d121247e18064b1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/walterngo/Documents/projects/gym-trackr/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="/Users/walterngo/Documents/projects/gym-trackr/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.0.1_3aa2f2a6662a7dd8c70cfa3ef34ad42464b6ac73/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/walterngo/Documents/projects/GymTrackr/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="/Users/walterngo/Documents/projects/GymTrackr/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_1597481830ee08f71f38c7ccabcc5e21dbdb9aaa/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/walterngo/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.1/support-annotations-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="/Users/walterngo/Documents/projects/GymTrackr/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.0.1_4c19d4a8b7d2d4462d0b749e85fab9d7e1515a1e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/walterngo/Documents/projects/GymTrackr/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/Users/walterngo/Documents/projects/GymTrackr/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_93d18fe27a13b222ee6d58385a8ef5f58afc3ac2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/walterngo/Documents/projects/GymTrackr/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f514490cf29b2922af4d3cd59383d19dd3508f89">
+        <dex dex="/Users/walterngo/Documents/projects/GymTrackr/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_2d31f5ec04a861c55cf95730be56c32a78c5417b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/walterngo/Documents/projects/GymTrackr/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="/Users/walterngo/Documents/projects/GymTrackr/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_78607ffd1c56a8441ff9c5feaaf49d35ed4b8678/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/walterngo/Documents/projects/gym-trackr/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/walterngo/Documents/projects/gym-trackr/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.0.1_8b6771174deeb1a94466f2bacf8272c3987f1d72/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/walterngo/Documents/projects/GymTrackr/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="/Users/walterngo/Documents/projects/GymTrackr/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.0.1_4adfe9ed6401046305fec309d4af2cb9013abe03/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/walterngo/Documents/projects/gym-trackr/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="/Users/walterngo/Documents/projects/gym-trackr/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.0.1_c7db6e3ffa21bd6370196539a4e3f41781eed046/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/walterngo/Documents/projects/GymTrackr/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="/Users/walterngo/Documents/projects/GymTrackr/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.0.1_0c478bb06aea58f58d946d150c9bfc7416826eb3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/walterngo/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-runtime/1.0.5-2/16ba409719189072db06433a3c381015c0877998/kotlin-runtime-1.0.5-2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="16ba409719189072db06433a3c381015c0877998">
+        <dex dex="/Users/walterngo/Documents/projects/GymTrackr/app/build/intermediates/transforms/dex/debug/folders/1000/10/kotlin-runtime-1.0.5-2_3b6fe15087d0c2d43c08e8204fdc03cb7221c254/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/walterngo/Documents/projects/GymTrackr/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="/Users/walterngo/Documents/projects/GymTrackr/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.0.1_7190a0c085fd6181f2a12d27b675148d6cbb4e87/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/walterngo/Documents/projects/GymTrackr/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="/Users/walterngo/Documents/projects/GymTrackr/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.0.1_ff6274ccafbebf7e2930ffada48e3586ff761786/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/walterngo/Documents/projects/gym-trackr/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="/Users/walterngo/Documents/projects/gym-trackr/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.0.1_899daa44068cd9b81f54f3b6ebd0d215b9c90f21/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/walterngo/Documents/projects/gym-trackr/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="/Users/walterngo/Documents/projects/gym-trackr/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_f0b8c42f4dd3ff4d204cebd38f21b40a80fb01e7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/walterngo/Documents/projects/gym-trackr/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="/Users/walterngo/Documents/projects/gym-trackr/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.0.1_5a80c95d5c0a26e41afaf3b2d497e17dfa7cffef/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/walterngo/Documents/projects/GymTrackr/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="/Users/walterngo/Documents/projects/GymTrackr/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.0.1_f898577d3d26d4ef7712c431f4d06010a4099f03/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/walterngo/Documents/projects/GymTrackr/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="/Users/walterngo/Documents/projects/GymTrackr/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_872fef04e92a507cfe9a2ceda5e6e8b9e8f3c1ec/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/walterngo/Documents/projects/GymTrackr/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/walterngo/Documents/projects/GymTrackr/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.0.1_d9b3b3a33cf827fe62642f41091323631669d36d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/walterngo/Documents/projects/GymTrackr/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="/Users/walterngo/Documents/projects/GymTrackr/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_0195a8a68644ad3829d54e2a430488e6db5fdbf5/classes.dex" />
+    </item>
+
+</items>
